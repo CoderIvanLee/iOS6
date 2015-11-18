@@ -21,6 +21,9 @@
     NSLog(@"哈哈");
     
     NSLog(@"haha");
+    
+    
+    NSLog(@"大家好,才是真的好");
 }
 
 - (void)didReceiveMemoryWarning {
